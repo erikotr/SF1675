@@ -4,3 +4,4 @@
 Här kommer jag lägga upp mina anteckningar från övningarna och seminarierna i SF1675. Då mina lösningar ofta är ofullständiga och min handstil är kryptisk som bäst är detta inte en sida för att se hur man bör lösa uppgifter.
 
 ## Övning 1
+[testlink](erikotr.github.io/blob/master/test)
